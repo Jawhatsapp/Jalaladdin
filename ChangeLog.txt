@@ -1,6 +1,6 @@
 
 {
- "version":"21.35",
+ "version":"2",
  "title":"🚀 Update available 🚀",
  "description":" 📛 RCWhatsApp v10.8 📛
 1. Download Psiphon Pro VPN from the Play Store. 
