@@ -1,6 +1,6 @@
 
 {
- "version":"2",
+ "version":"1",
  "title":"🚀 Update available 🚀",
  "description":" 📛 RCWhatsApp v2 📛
 1. تحديث القاعدة إلى 2.24.21.79. 
