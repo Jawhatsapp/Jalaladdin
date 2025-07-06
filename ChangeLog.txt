@@ -1,11 +1,9 @@
-
-
 {
-  "versionCode": 2147483649,
-  "versionName": "2.25.11.73 ",
+  "versionCode": 1548,
+  "versionName": "1.1.0.1548",
   "Msg": "New update is available, to continue in our app please update it.
 
-What s new:
+What's new:
 - Performance Improvements.
 - Bug Fixes.
 - New Features introduced.
@@ -14,3 +12,4 @@ What s new:
 Thanks for using",
   "downloadLink": "https://t.me/+Uw6_PiVEGFw5Yzk0"
   }
+  
