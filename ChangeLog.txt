@@ -1,7 +1,7 @@
 
 
 {
-  "versionCode": 2147483647,
+  "versionCode": 2147483649,
   "versionName": "2.25.11.73 ",
   "Msg": "New update is available, to continue in our app please update it.
 
